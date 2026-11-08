@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nick! 👋
 
-<!--
-**nrboucher/nrboucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of New Brunswick (UNB), interested in software development, problem-solving, and technology.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Pursuing a Bachelor of Computer Science at UNB.
+- 💻 Enjoy building software and tackling programming challenges.
+- 📐 Also pursuing a minor in Mathematics.
+- 🌐 Bilingual in English and French.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+- **Languages:** Java, C, JavaScript, SQL
+- **Databases:** MariaDB, SQLite
+- **Tools:** Git, Linux, Visual Studio Code
+
+### Connect
+- 💼 [LinkedIn](https://linkedin.com/in/nrboucher)
+- 🌐 [Personal Website](https://nickboucher.ca)
